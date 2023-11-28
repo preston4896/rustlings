@@ -3,9 +3,8 @@
 // Execute `rustlings hint variables6` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
+const X_VAL: u8 = 3;
 
-const NUMBER = 3;
 fn main() {
-    println!("Number {}", NUMBER);
+    println!("Number {}", X_VAL);
 }
